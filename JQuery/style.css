@@ -1,0 +1,11 @@
+html{
+    background-color:antiquewhite;
+}
+.text{
+    font-style: italic;
+    color: lightpink;
+    font-size: 5rem;
+}
+.margin-10{
+    margin: 50px;
+}
